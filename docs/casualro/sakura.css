@@ -17,3 +17,5 @@ html{scroll-padding-top:150px}
 /* Footer links use color feedback without legacy underlines. */
 body footer a,body footer a:hover,body footer a:focus,body .cro-community-footer a,body .cro-community-footer a:hover,body .cro-community-footer a:focus{text-decoration:none!important;border-bottom:0!important;box-shadow:none!important}
 body footer a:hover,body .cro-community-footer a:hover{color:#803857!important}
+
+.catalog-action-icon{display:inline-block;vertical-align:-3px;flex-shrink:0;margin-left:5px;opacity:.85}
